@@ -17,7 +17,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### Few workds about Me :
+### Few words about Me :
 
 I am an SRE devops and junior developer from France.
 * I'm working as a freelance since 2021, Feb. and my client to manage and improve their infrastructures
