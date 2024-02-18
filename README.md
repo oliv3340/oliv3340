@@ -20,7 +20,7 @@
 ### Few words about Me :
 
 I am an SRE devops and junior developer from France.
-* I'm working as a freelance since 2021, Feb. and my client to manage and improve their infrastructures
+* I'm working as a freelance since 2021, Feb. and helping my clients to manage and improve their infrastructures
 * I develop my coding skills, building some project from website to mobile app
 * I learn a lot about financial concept and entrepreneur stuff 
 
@@ -28,7 +28,7 @@ I am an SRE devops and junior developer from France.
 
 ### Languages and Tools :
 
-<p>
+<div align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -40,4 +40,4 @@ I am an SRE devops and junior developer from France.
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-</p>
+</div>
