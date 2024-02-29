@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/olivier-graciannette-3358b89b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://oliviergraciannette.net">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=javascript&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://oliviergraciannette.com">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=javascript&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="mailto:olivier.graciannette@gmail.com">
     <img src="https://img.shields.io/badge/Contact-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
